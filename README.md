@@ -1,6 +1,6 @@
 ## Sobre Mim
 - 👤 Me chamo Nicole e tenho 20 anos!
-- 👩‍💻 Trabalho atualmente como Auxiliar de Escritório, mas com outras ambições.
+- 👩‍💻 Trabalho atualmente como Auxiliar de Escritório, mas tenho outras ambições.
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Habilidades
